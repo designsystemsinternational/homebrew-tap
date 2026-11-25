@@ -1,8 +1,8 @@
 class Sorts < Formula
   desc "Font manager for a shared Fonts folder with personal settings"
   homepage "https://github.com/designsystemsinternational/sorts"
-  url "https://github.com/designsystemsinternational/sorts/archive/refs/tags/v0.9.0.tar.gz"
-  sha256 "0a55898133759f841362994d4cd2ad0b0a2cd413298cd19ef7bf26ac24123092"
+  url "https://github.com/designsystemsinternational/sorts/archive/refs/tags/v0.10.0.tar.gz"
+  sha256 "2cb1dd88d0c43127d2fee467b65ad9b8ef38ba51b4c42e6ce9ca17b01e1d31b8"
   license "MIT"
   head "https://github.com/designsystemsinternational/sorts.git", branch: "main"
 
